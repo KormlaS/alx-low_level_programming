@@ -4,9 +4,9 @@
 
 "0. Preprocessor"
 
- '[0-preprocessor](./0-preprocessor): Bash  script that runs a C file through the preprocessor and save the result into another file the C file name will be saved in the variable $CFILE
+ '[0-preprocessor](./0-preprocessor): Bash  script that runs a C file through the preprocessor and save the result into another file the C file name will be saved in the variable '$CFILE'
  
-and saves output in the file c.
+and saves output in the file 'c'.
 
 
 
