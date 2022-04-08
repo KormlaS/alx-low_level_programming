@@ -1,3 +1,2 @@
 #!/bin/bash
-
 gcc $file -E -o c
