@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- *print_line - prints underscores
- *@n: limit
+ * print_line - prints underscores
+ * @n: limit
  *
- *Return: void
+ * Return: void
  */
 
 void print_line(int n)
