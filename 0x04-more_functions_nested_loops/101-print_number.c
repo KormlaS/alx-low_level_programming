@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_number - prints int with putchar
- * @n: takes number, hello 
+ * @n: takes number, hello
  *
  * Return: void
  */
