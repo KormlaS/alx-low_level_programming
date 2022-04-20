@@ -22,7 +22,7 @@ _putchar (':');
 _putchar (b / 10 + '0');
 _putchar (b % 10 + '0');
 _putchar ('\n');
-	  
+
 }
 
 
